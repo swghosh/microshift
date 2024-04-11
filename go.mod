@@ -11,7 +11,7 @@ require (
 	github.com/openshift/build-machinery-go v0.0.0-20231128094528-1e9b1b0595c8
 	github.com/openshift/client-go v0.0.0-20240115204758-e6bf7d631d5e
 	github.com/openshift/cluster-policy-controller v0.0.0-20240311102810-eaea543f4c84
-	github.com/openshift/library-go v0.0.0-20240207105404-126b47137408
+	github.com/openshift/library-go v0.0.0-20240403124533-3064fcb77c32
 	github.com/openshift/route-controller-manager v0.0.0-20240306200724-3112b458983c
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/cobra v1.7.0
@@ -71,7 +71,6 @@ require (
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e // indirect
 	github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
@@ -256,7 +255,7 @@ replace (
 	k8s.io/kube-scheduler => github.com/openshift/kubernetes/staging/src/k8s.io/kube-scheduler v0.0.0-20240407143354-0345d5c423d1 // from kubernetes
 	k8s.io/kubectl => github.com/openshift/kubernetes/staging/src/k8s.io/kubectl v0.0.0-20240407143354-0345d5c423d1 // from kubernetes
 	k8s.io/kubelet => github.com/openshift/kubernetes/staging/src/k8s.io/kubelet v0.0.0-20240407143354-0345d5c423d1 // from kubernetes
-	k8s.io/kubernetes => github.com/openshift/kubernetes v0.0.0-20240407143354-0345d5c423d1 // release kubernetes
+	k8s.io/kubernetes => github.com/swghosh/kubernetes v1.22.2-0.20240410175422-eeae2658ea97 // release kubernetes
 	k8s.io/legacy-cloud-providers => github.com/openshift/kubernetes/staging/src/k8s.io/legacy-cloud-providers v0.0.0-20240407143354-0345d5c423d1 // from kubernetes
 	k8s.io/metrics => github.com/openshift/kubernetes/staging/src/k8s.io/metrics v0.0.0-20240407143354-0345d5c423d1 // from kubernetes
 	k8s.io/mount-utils => github.com/openshift/kubernetes/staging/src/k8s.io/mount-utils v0.0.0-20240407143354-0345d5c423d1 // from kubernetes

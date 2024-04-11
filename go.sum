@@ -110,8 +110,6 @@ github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
-github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
-github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
 github.com/blang/semver/v4 v4.0.0/go.mod h1:IbckMUScFkM3pff0VJDNKRiT6TG/YpiHIM2yvyW5YoQ=
 github.com/cenkalti/backoff/v4 v4.1.1/go.mod h1:scbssz8iZGpm3xbr14ovlUdkxfGXNInqkPWOWmG2CLw=
@@ -504,8 +502,6 @@ github.com/openshift/etcd/client/v3 v3.5.1-0.20240216174859-c205b668c1fb h1:UJQT
 github.com/openshift/etcd/client/v3 v3.5.1-0.20240216174859-c205b668c1fb/go.mod h1:tSbBCakoWmmddL+BKVAJHa9km+O/E+bumDe9mSbPiqw=
 github.com/openshift/ginkgo/v2 v2.6.1-0.20231031162821-c5e24be53ea7 h1:jUM9Fdf+fT0LTccN58jrypOyzcfQUs1v2UH6f8vdBTA=
 github.com/openshift/ginkgo/v2 v2.6.1-0.20231031162821-c5e24be53ea7/go.mod h1:TE309ZR8s5FsKKpuB1YAQYBzCaAfUgatB/xlT/ETL/o=
-github.com/openshift/kubernetes v0.0.0-20240407143354-0345d5c423d1 h1:ao2Y5NlFHFJBTb51FCc+Kxzqi2syMk0rrriZEwZ0F/U=
-github.com/openshift/kubernetes v0.0.0-20240407143354-0345d5c423d1/go.mod h1:GXCTrHjFk+z206TDWfCDmKFMcv3a3A7uhbtCEmzxido=
 github.com/openshift/kubernetes-kube-storage-version-migrator v0.0.3-0.20240125051406-969a60e9e246 h1:XbvnIzWITQAGkucBNg+7fCBF0ysRySNSOkTvYWFU6fA=
 github.com/openshift/kubernetes-kube-storage-version-migrator v0.0.3-0.20240125051406-969a60e9e246/go.mod h1:XvsDWvUXlITs6q4deif+DIbomfUhxf6igCMjFiP6jHU=
 github.com/openshift/kubernetes/staging/src/k8s.io/api v0.0.0-20240407143354-0345d5c423d1 h1:rWV7TWxL7umW8arUn6OxKrqp2uixSld7SXBB4zxavsI=
@@ -558,8 +554,8 @@ github.com/openshift/kubernetes/staging/src/k8s.io/mount-utils v0.0.0-2024040714
 github.com/openshift/kubernetes/staging/src/k8s.io/mount-utils v0.0.0-20240407143354-0345d5c423d1/go.mod h1:6PUWfpRhx/A8aRuFIntAVJjxcnLWyqircvt5UQpbbWg=
 github.com/openshift/kubernetes/staging/src/k8s.io/pod-security-admission v0.0.0-20240407143354-0345d5c423d1 h1:0VchpeEgUSb2GEGrDQDvNk57/lQC6KMNcObVcIpvc+0=
 github.com/openshift/kubernetes/staging/src/k8s.io/pod-security-admission v0.0.0-20240407143354-0345d5c423d1/go.mod h1:CGTTg/p6bZqFYTkcNrzv4kz7AbTwNAI2KoaA2L6U7Nw=
-github.com/openshift/library-go v0.0.0-20240207105404-126b47137408 h1:Evg6GEvEuyj9toFX14YenXI6hGRnhLWqYx/rHO7VnQ4=
-github.com/openshift/library-go v0.0.0-20240207105404-126b47137408/go.mod h1:ePlaOqUiPplRc++6aYdMe+2FmXb2xTNS9Nz5laG2YmI=
+github.com/openshift/library-go v0.0.0-20240403124533-3064fcb77c32 h1:8CohckEYDqi/PdtngsJY9B1chIJB+K9j8odYIulB3XA=
+github.com/openshift/library-go v0.0.0-20240403124533-3064fcb77c32/go.mod h1:sb0m3u8GuEtCmkVWsosk/XBAzvnJjaOKcZ4m+oYsOa0=
 github.com/openshift/route-controller-manager v0.0.0-20240306200724-3112b458983c h1:Y+CdtMBqLmL5RQAYzugn3O5xsKC6y0oYpqY9Ds/PMr8=
 github.com/openshift/route-controller-manager v0.0.0-20240306200724-3112b458983c/go.mod h1:bKMzHzOveoSMWypzUHrHxf62Oq8BOnNhwjTeDp/lgDg=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
@@ -651,6 +647,8 @@ github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+github.com/swghosh/kubernetes v1.22.2-0.20240410175422-eeae2658ea97 h1:PAaStfH4Aw7eOScNiZak/LcHn4sSvvdDjOgPJsmgETM=
+github.com/swghosh/kubernetes v1.22.2-0.20240410175422-eeae2658ea97/go.mod h1:wiYsParbhyK3iiWiN5BEkmn0KaAmI0YU8xI7wt85Z6k=
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 h1:kdXcSzyDtseVEc4yCz2qF8ZrQvIDBJLl4S1c3GCXmoI=
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
